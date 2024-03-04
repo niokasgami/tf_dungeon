@@ -1,6 +1,11 @@
 
 
 export interface IEvent {
+  background: string;
+  music: string;
+  rooms: IRoom[];
+}
+export interface IRoom {
   dialogue?: string;
   choices?: IEventChoice[]
   label?: string;

@@ -1,0 +1,37 @@
+{
+  "floor_A": {
+    "background": "back01",
+    "music": "someMusic",
+    "rooms": [
+      {"dialogue": "it is working?"},
+      {"actions": [
+        {"action":  "addItem",
+          "args": [1,2]
+        }
+      ]},
+      {
+        "label": "myLabel"
+      },
+      {
+        "choices": [
+          {"name":  "A",
+            "conditions": [
+              {"conditions": "hasItem",
+                "args": [1,2]
+              }
+            ],
+            "goto": "myLabel2"
+          },
+          {"name":  "B",
+            "goto": "NEXT"
+          }
+        ]
+      },
+      {"actions":  [
+        {"action":  "addItem",
+          "args": [1,2]
+        }
+      ]}
+    ]
+  }
+}
