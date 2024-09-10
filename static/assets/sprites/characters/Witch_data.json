@@ -1,0 +1,28 @@
+{"frames": {
+
+"Witch/bigTits":
+{
+	"frame": {"x":3,"y":3,"w":466,"h":629},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":466,"h":629},
+	"sourceSize": {"w":466,"h":629}
+},
+"Witch/normal":
+{
+	"frame": {"x":469,"y":3,"w":466,"h":629},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":466,"h":629},
+	"sourceSize": {"w":466,"h":629}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.1",
+	"image": "Witch_data.png",
+	"format": "RGBA8888",
+	"size": {"w":938,"h":635},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:270637110bda6dc317c707eed02d02b4:9061780b8f8b3aed95a79317a297d32b:7e71b0f30bf3bb1f8f98ea327af3a47f$"
+}
+}

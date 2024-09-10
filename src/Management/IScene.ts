@@ -1,4 +1,4 @@
-import {DisplayObject} from "pixi.js";
+import { DisplayObject } from "pixi.js";
 
 export interface IScene extends DisplayObject {
     update(delta: number): void;
@@ -7,4 +7,6 @@ export interface IScene extends DisplayObject {
     start(): void;
     update(delta: number): void;
     stop(): void;
+    terminate(): void;
+    isBusy(): boolean;
 }

@@ -1,0 +1,44 @@
+{"frames": {
+
+"Blue":
+{
+	"frame": {"x":0,"y":0,"w":360,"h":360},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":360,"h":360},
+	"sourceSize": {"w":360,"h":360}
+},
+"Craft":
+{
+	"frame": {"x":360,"y":0,"w":360,"h":360},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":360,"h":360},
+	"sourceSize": {"w":360,"h":360}
+},
+"Green":
+{
+	"frame": {"x":720,"y":0,"w":360,"h":360},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":360,"h":360},
+	"sourceSize": {"w":360,"h":360}
+},
+"Red":
+{
+	"frame": {"x":1080,"y":0,"w":360,"h":360},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":360,"h":360},
+	"sourceSize": {"w":360,"h":360}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.1",
+	"image": "potions_data.png",
+	"format": "RGBA8888",
+	"size": {"w":1440,"h":360},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:9e611aa4326245542d6c8f47631951ac:47b68d07dc1c6eb32d9c27e940192b11:ff5f95208a99f73c72e9d19fb0c21141$"
+}
+}

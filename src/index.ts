@@ -1,6 +1,6 @@
-import {SceneManager} from "./Management";
-import {SceneTest} from "./scenes";
+import { SceneManager } from "./Management";
+import { SceneBoot } from "./scenes/SceneBoot";
 
 
-SceneManager.initialize(1920,1080,0x6495ed);
-SceneManager.changeScene(new SceneTest());
+SceneManager.initialize(1920, 1080, 0x000000);
+SceneManager.goto(new SceneBoot());

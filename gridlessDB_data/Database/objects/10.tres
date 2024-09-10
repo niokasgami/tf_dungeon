@@ -1,0 +1,13 @@
+[gd_resource type="Resource" load_steps=2 format=2]
+
+[ext_resource path="C:/Users/nioka/Documents/GitHub/tf_dungeon/Database/classes/Potions.gd" type="Script" id=1]
+
+[resource]
+script = ExtResource( 1 )
+key = ""
+display_name = ""
+sprite = ""
+slot_a = 2
+slot_b = 2
+slot_c = 2
+description = ""
